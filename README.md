@@ -1,1 +1,1 @@
-"# light-studio" 
+# light-studio 
